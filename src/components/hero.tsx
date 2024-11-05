@@ -58,7 +58,7 @@ export default function Hero() {
         <div className="max-w-full w-[85%] sm:w-[80%] md:w-[65%] lg:w-[60%]  flex justify-center items-center">
           <Image
             alt="header-image"
-            src="/header/header_image.png"
+            src="/header/headimage.png"
             width={630}
             height={630}
           />
